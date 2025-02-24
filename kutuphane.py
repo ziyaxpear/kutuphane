@@ -87,7 +87,7 @@ def update_member(member_id, name, email, phone):
 
 
 # Streamlit arayüzü
-st.title("📚 Kütüphane Yönetim Sistemi")
+st.title("📚 Kütüphane Yönetim Sistemi 📚 Milli Eğitim Vakfı Ortaokulu")
 menu = st.sidebar.selectbox("Menü", ["Kitaplar", "Üyeler", "İşlemler", "İstatistikler", "Kitap Ara", "Arama",
                                      "Gelişmiş Raporlar","Üye Kitap Hareketleri"])
 
